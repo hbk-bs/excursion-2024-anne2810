@@ -13,22 +13,33 @@ body {
   
 }
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 700;
   margin: 0;
   padding: 0;
   margin-top: 5%;
-  margin-bottom: 5%;
+  margin-bottom: 0%;
   text-align: center;
+  
 }
 h2 {
   font-size: 1.5rem;
   font-weight: 600;
   margin: 0;
   padding: 0;
-  margin-top: 10%;
-  margin-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 2%;
   text-align: center;
+}
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  text-align: center;
+ color: #444242;
 }
 p {
   font-size: 1rem;
